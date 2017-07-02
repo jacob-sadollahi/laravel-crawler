@@ -1,0 +1,17 @@
+{
+    "name": "hamrahnegar/laravel-crawler",
+    "description": "package for laravel crawler",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yaghoub ali sadollahi",
+            "email": "yaghob6165@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hamrahnegar\\Crawler\\": "src/"
+        }
+    }
+}
