@@ -8,7 +8,9 @@
             "email": "yaghob6165@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "symfony/dom-crawler": "^3.3"
+    },
     "autoload": {
         "psr-4": {
             "Hamrahnegar\\Crawler\\": "src/"
