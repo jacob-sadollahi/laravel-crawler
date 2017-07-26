@@ -6,6 +6,7 @@ use Illuminate\Support\ServiceProvider;
 
 use Hamrahnegar\Crawler\App\Middleware\CrawlerAuth;
 
+
 class CrawlerServiceProvider extends ServiceProvider
 {
     /**
